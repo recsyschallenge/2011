@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+Sitemap: http://2011.camrachallenge.com/sitemap.xml.gz
