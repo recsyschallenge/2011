@@ -1,14 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
-<head><base href="http://recsyschallenge.github.io/2011/">
+<head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Program &#171; Challenge on Context-aware Movie Recommendation</title>
+<title>Evaluation &#171; Challenge on Context-aware Movie Recommendation</title>
 <link rel="shortcut icon" href="/wp-content/ata-images/14-favicon.ico" />
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="/xmlrpc.php" />
 <link rel="alternate" type="application/rss+xml" title="Challenge on Context-aware Movie Recommendation &raquo; Feed" href="/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Challenge on Context-aware Movie Recommendation &raquo; Comments Feed" href="/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Challenge on Context-aware Movie Recommendation &raquo; Program Comments Feed" href="/program/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/2011.camrachallenge.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.2"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -33,8 +32,8 @@ img.emoji {
 <script type='text/javascript' src='/wp-content/themes/atahualpa/js/DD_roundies.js?ver=0.0.2a'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
-<link rel='canonical' href='/program/' />
-<link rel='shortlink' href='http://wp.me/P1vOT4-2Q' />
+<link rel='canonical' href='/evaluation/' />
+<link rel='shortlink' href='http://wp.me/P1vOT4-2d' />
 <script type="text/javascript">
 window.google_analytics_uacct = "UA-5445164-7";
 </script>
@@ -207,7 +206,7 @@ jQuery(document).ready(function(){
 <script type="text/javascript">DD_roundies.addRule("a.posts-icon, a.comments-icon, a.email-icon, img.logo");</script>
 <![endif]-->
 </head>
-<body class="page page-id-176 page-template-default" >
+<body class="page page-id-137 page-template-default" >
 
 <div id="wrapper">
 <div id="container">
@@ -238,7 +237,7 @@ jQuery(document).ready(function(){
 	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="/dataset/">Dataset</a></li>
 </ul>
 </li>
-<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-176 current_page_item menu-item-184"><a href="/program/">Program</a></li>
+<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184"><a href="/program/">Program</a></li>
 <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-45"><a href="/call-for-papers/">Call For Papers</a>
 <ul class="sub-menu">
 	<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="/paper-submission/">Paper Submission</a></li>
@@ -246,9 +245,9 @@ jQuery(document).ready(function(){
 </ul>
 </li>
 <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="/committee/">Committee</a></li>
-<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111"><a href="/faq/">FAQ</a>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-111"><a href="/faq/">FAQ</a>
 <ul class="sub-menu">
-	<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="/evaluation/">Evaluation</a></li>
+	<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-137 current_page_item menu-item-149"><a href="/evaluation/">Evaluation</a></li>
 </ul>
 </li>
 <li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="/news/">News</a></li>
@@ -293,36 +292,43 @@ jQuery(document).ready(function(){
     
 		
 		
-								<div class="post post-176 page type-page status-publish hentry odd" id="post-176">
-						<div class="post-headline">		<h1>Program</h1>
-		</div>				<div class="post-bodycopy clearfix"><ul>
-<li><strong>8:30</strong>-8:45 &#8211; welcome</li>
-<li><strong>8:45-9:30</strong> Keynote Alexander Tuzhilin  &#8211; Context-Aware Recommender Systems: The Next Frontier</li>
-<li><strong>9:30-9:45</strong> Presentation of CAMRa</li>
-<li><strong>9:45-10:15</strong> &#8211; talk (20+10)<br />
-<em>Claudio Biancalana, Fabio Gasparetti, Alessandro Micarelli,  Alfonso Miola and Giuseppe Sansonetti</em>. Context-aware Movie  Recommendation based on Signal Processing and Machine Learning</li>
-<li><strong>10:15-10:45</strong> Coffee Break</li>
-<li><strong>10:45-11:15</strong> talk (20+10)<br />
-<em>Gwangseop Gim, Hogyeong Jeong, Hyunjong Lee and Dohyun  Yun</em>. Group-aware prediction with exponential smoothing for  collaborative filtering</li>
-<li><strong>11:15-11:30</strong> talk (10+5)<br />
-<em>Qiuxia Lu, Diyi Yang, Tianqi Chen, Weinan Zhang and Yong  Yu</em>. Informative Household Recommendation with Feature-based Matrix  Factorization</li>
-<li><strong>11:30-11:45</strong> talk (10+5)<br />
-<em>Xun Hu, Xiangwu Meng and Licai Wang</em>.  SVD-based group  recommendation approaches: An experimental study of Moviepilot</li>
-<li><strong>11:45:12:15</strong> talk (20+10)<br />
-<em>Pedro G. Campos, Fernando Díez and Alejandro Bellogin</em>. Temporal Rating Habits: A Valuable Tool for Rater Differentiation</li>
-<li><strong>12:15-12:30</strong> talk (10+5)<br />
-<em>Andres Moreno, Harold Castro and Michel Riveill</em>. Simple  time-aware and social-aware user similarity for a KNN-based recommender  system</li>
-<li><strong>12:30-14:00</strong> Lunch</li>
-<li><strong>14:00-14:30</strong> talk (20+10)<br />
-<em>Jose Bento, Nadia Fawaz, Andrea Montanari and Stratis Ioannidis</em>. Identifying Users From Their Rating Patterns</li>
-<li><strong>14:30 -15:00</strong> talk (20+10)<br />
-<em>Yancui Shi, Xiangwu Meng and Licai Wang</em>.  A heuristic  approach to identifying the specific household member for a given rating</li>
-<li><strong>15:00-15:30</strong> talk (20+10)<br />
-<em>Yue Shi, Martha Larson and Alan Hanjalic</em>. Mining Relational Context-aware Graph for Rater Identification</li>
-<li><strong>15:30-15:45</strong> Presentation wrap-up</li>
-<li><strong>15:45-16:15</strong> Coffee Break</li>
-<li><strong>16:15-18:00</strong> &#8211; breakout + ending discussion</li>
+								<div class="post post-137 page type-page status-publish hentry odd" id="post-137">
+						<div class="post-headline">		<h1>Evaluation</h1>
+		</div>				<div class="post-bodycopy clearfix"><div>
+<p>We have gotten some questions on the evaluation of the two tracks. This page tries to explain the evaluation approaches in detail.</p>
+<p>Please note that we welcome you to use other evaluation metrics as well, however, in order to gain a simple overview of all the different approaches we need you to include the ones below as well.</p>
+<p><strong>Due to the different recommendation approaches used by different teams, there are two means of evaluation based on whether you approach is <span style="text-decoration: underline;"><em>group-based</em></span><em> (household-based)</em>, or <span style="text-decoration: underline;"><em>user-based.</em></span></strong></p>
+<p>Note that the difference between a group-based and a user-based approach is whether the list of recommended items is recommended to individual users, or whether it is recommended to a set of users (i.e. the household).</p>
+<p>The type of approach will be taken into consideration by the organizers when comparing the obtained results.</p>
+<h3>Track 1 &#8211; Household Recommendations</h3>
+<p>Track 1 should be evaluated using the information contained in the file <strong>public_eval_t1.csv</strong>. All users in the file belong to a household, the household precision and household MAP values should be averaged <strong>per household</strong>.</p>
+<p>Furthermore, at latest in your camera ready versions you should also include the average ranking (position in the set of recommended items) for movies found in the public_eval_t1.csv file, averaged per movie per household. This should be, for each movie in the evaluation, average the rank of the movie for each member in the household. Do this for all movies in the household, average the value. And finally average the value of all households.</p>
+<p><strong>User-based approaches:</strong></p>
+<p>Example of household precision@1, 2, 3 for a household with two members and two movies (the division by 2 in every step is the number of users in the household)</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2011/08/householdprecision_21.png"><img class="aligncenter size-medium wp-image-157" title="householdprecision_2" src="http://2011.camrachallenge.com/wp-content/uploads/2011/08/householdprecision_21-300x225.png" alt="" width="300" height="225" /></a></p>
+<p><strong>Group-based approaches:</strong></p>
+<p>Example of household precision@1, 2, 3 for a household with 3 users and two movies</p>
+<p><a href="/wp-content/uploads/2011/08/householdprecision_32.png"><img class="aligncenter size-medium wp-image-159" title="householdprecision_3" src="http://2011.camrachallenge.com/wp-content/uploads/2011/08/householdprecision_32-300x225.png" alt="" width="300" height="225" /></a></p>
+<h3>Track 2 &#8211; Identifying Ratings</h3>
+<p>Track 2 should be evaluated using the information contained int he file <strong>public_eval_t2.csv </strong>and/or <strong>housemovies_t2.csv</strong>.</p>
+<p>The metric which should be used for this track is a classification error rate by household, i.e. the number of correct predictions divided by the number of predictions, averaged by household. Additionally similar error rates should be calculated for each household size, i.e. one error rate averaged by household for all households where household size is {2, 3, ..}.</p>
+<p>&nbsp;</p>
+<h4>Other metrics</h4>
+<p><strong>Household Area under the ROC Curve</strong> should be calculated according to:</p>
+<ul>
+<li>For each user (i.e. True Positive = one up, false positive = one right).</li>
+<li>Average the area in each household.</li>
+<li>Calculate one final average AUC for all huseholds.</li>
+<li>Please note that a completely random approach will have an AUC value of 0.5.</li>
 </ul>
+<p><strong>MAP</strong></p>
+<ul>
+<li>See here for how MAP is calculated: <a href="http://en.wikipedia.org/wiki/Information_retrieval#Mean_average_precision">http://en.wikipedia.org/wiki/Information_retrieval#Mean_average_precision</a></li>
+<li>MAP you first need to calculate Average Precision according to <a href="http://en.wikipedia.org/wiki/Information_retrieval#Average_precision">http://en.wikipedia.org/wiki/Information_retrieval#Average_precision</a></li>
+<li>In order to calculate Average Precision you need to calculate household Precision, as defined under Track 1 (above)</li>
+</ul>
+</div>
+<p>&nbsp;</p>
 </div>								</div><!-- / Post -->	
 						
 	
@@ -394,11 +400,10 @@ function wo_map_console(url) {
 	</div>
 </div>
 
-<script type='text/javascript' src='/wp-includes/js/comment-reply.min.js?ver=4.3.2'></script>
 <!--stats_footer_test--><script src="http://stats.wordpress.com/e-201604.js" type="text/javascript"></script>
 <script type="text/javascript">
-st_go({blog:'22360118',v:'ext',post:'176'});
-var load_cmc = function(){linktracker_init(22360118,176,2);};
+st_go({blog:'22360118',v:'ext',post:'137'});
+var load_cmc = function(){linktracker_init(22360118,137,2);};
 if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 else load_cmc();
 </script>

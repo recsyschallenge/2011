@@ -1,14 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
-<head><base href="http://recsyschallenge.github.io/2011/">
+<head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Program &#171; Challenge on Context-aware Movie Recommendation</title>
+<title>Final Evaluation &#171; Challenge on Context-aware Movie Recommendation</title>
 <link rel="shortcut icon" href="/wp-content/ata-images/14-favicon.ico" />
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="/xmlrpc.php" />
 <link rel="alternate" type="application/rss+xml" title="Challenge on Context-aware Movie Recommendation &raquo; Feed" href="/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Challenge on Context-aware Movie Recommendation &raquo; Comments Feed" href="/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Challenge on Context-aware Movie Recommendation &raquo; Program Comments Feed" href="/program/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/2011.camrachallenge.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.2"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -33,8 +32,9 @@ img.emoji {
 <script type='text/javascript' src='/wp-content/themes/atahualpa/js/DD_roundies.js?ver=0.0.2a'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
-<link rel='canonical' href='/program/' />
-<link rel='shortlink' href='http://wp.me/P1vOT4-2Q' />
+<link rel='prev' title='Keynote' href='/2011/09/keynote/' />
+<link rel='canonical' href='/2011/11/final-evaluation/' />
+<link rel='shortlink' href='http://wp.me/p1vOT4-3i' />
 <script type="text/javascript">
 window.google_analytics_uacct = "UA-5445164-7";
 </script>
@@ -207,7 +207,7 @@ jQuery(document).ready(function(){
 <script type="text/javascript">DD_roundies.addRule("a.posts-icon, a.comments-icon, a.email-icon, img.logo");</script>
 <![endif]-->
 </head>
-<body class="page page-id-176 page-template-default" >
+<body class="single single-post postid-204 single-format-standard category-uncategorized" >
 
 <div id="wrapper">
 <div id="container">
@@ -238,7 +238,7 @@ jQuery(document).ready(function(){
 	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="/dataset/">Dataset</a></li>
 </ul>
 </li>
-<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-176 current_page_item menu-item-184"><a href="/program/">Program</a></li>
+<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184"><a href="/program/">Program</a></li>
 <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-45"><a href="/call-for-papers/">Call For Papers</a>
 <ul class="sub-menu">
 	<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="/paper-submission/">Paper Submission</a></li>
@@ -251,7 +251,7 @@ jQuery(document).ready(function(){
 	<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="/evaluation/">Evaluation</a></li>
 </ul>
 </li>
-<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="/news/">News</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-46"><a href="/news/">News</a></li>
 </ul></div></div>		<div id="recent-posts-3" class="widget widget_recent_entries">		<div class="widget-title"><h3>news</h3></div>		<ul>
 					<li>
 				<a href="/2011/11/final-evaluation/">Final Evaluation</a>
@@ -293,40 +293,33 @@ jQuery(document).ready(function(){
     
 		
 		
-								<div class="post post-176 page type-page status-publish hentry odd" id="post-176">
-						<div class="post-headline">		<h1>Program</h1>
-		</div>				<div class="post-bodycopy clearfix"><ul>
-<li><strong>8:30</strong>-8:45 &#8211; welcome</li>
-<li><strong>8:45-9:30</strong> Keynote Alexander Tuzhilin  &#8211; Context-Aware Recommender Systems: The Next Frontier</li>
-<li><strong>9:30-9:45</strong> Presentation of CAMRa</li>
-<li><strong>9:45-10:15</strong> &#8211; talk (20+10)<br />
-<em>Claudio Biancalana, Fabio Gasparetti, Alessandro Micarelli,  Alfonso Miola and Giuseppe Sansonetti</em>. Context-aware Movie  Recommendation based on Signal Processing and Machine Learning</li>
-<li><strong>10:15-10:45</strong> Coffee Break</li>
-<li><strong>10:45-11:15</strong> talk (20+10)<br />
-<em>Gwangseop Gim, Hogyeong Jeong, Hyunjong Lee and Dohyun  Yun</em>. Group-aware prediction with exponential smoothing for  collaborative filtering</li>
-<li><strong>11:15-11:30</strong> talk (10+5)<br />
-<em>Qiuxia Lu, Diyi Yang, Tianqi Chen, Weinan Zhang and Yong  Yu</em>. Informative Household Recommendation with Feature-based Matrix  Factorization</li>
-<li><strong>11:30-11:45</strong> talk (10+5)<br />
-<em>Xun Hu, Xiangwu Meng and Licai Wang</em>.  SVD-based group  recommendation approaches: An experimental study of Moviepilot</li>
-<li><strong>11:45:12:15</strong> talk (20+10)<br />
-<em>Pedro G. Campos, Fernando Díez and Alejandro Bellogin</em>. Temporal Rating Habits: A Valuable Tool for Rater Differentiation</li>
-<li><strong>12:15-12:30</strong> talk (10+5)<br />
-<em>Andres Moreno, Harold Castro and Michel Riveill</em>. Simple  time-aware and social-aware user similarity for a KNN-based recommender  system</li>
-<li><strong>12:30-14:00</strong> Lunch</li>
-<li><strong>14:00-14:30</strong> talk (20+10)<br />
-<em>Jose Bento, Nadia Fawaz, Andrea Montanari and Stratis Ioannidis</em>. Identifying Users From Their Rating Patterns</li>
-<li><strong>14:30 -15:00</strong> talk (20+10)<br />
-<em>Yancui Shi, Xiangwu Meng and Licai Wang</em>.  A heuristic  approach to identifying the specific household member for a given rating</li>
-<li><strong>15:00-15:30</strong> talk (20+10)<br />
-<em>Yue Shi, Martha Larson and Alan Hanjalic</em>. Mining Relational Context-aware Graph for Rater Identification</li>
-<li><strong>15:30-15:45</strong> Presentation wrap-up</li>
-<li><strong>15:45-16:15</strong> Coffee Break</li>
-<li><strong>16:15-18:00</strong> &#8211; breakout + ending discussion</li>
+				<div class="clearfix navigation-top">
+		<div class="older"> &nbsp;</div><div class="newer">&nbsp; <a href="/2011/09/keynote/" rel="prev">Keynote</a> &raquo;</div></div>				<div class="post-204 post type-post status-publish format-standard hentry category-uncategorized odd" id="post-204">
+						<div class="post-headline">		<h1>Final Evaluation</h1>
+		</div>				<div class="post-bodycopy clearfix"><p>These are the final evaluation results.</p>
+<p>For <strong>track 1</strong> where really wasn&#8217;t much results as all submitted results were close to 0.</p>
+<p><strong>Track 2</strong> was somewhat better, the results are the number of erroneous matchings of household member and rating:</p>
+<ul>
+<li><em>Yancui Shi, Xiangwu Meng and Licai Wang</em>. A heuristic approach to identifying the specific household member for a given rating &#8211; <strong>1303</strong></li>
+<li><em>Jose Bento, Nadia Fawaz, Andrea Montanari and Stratis Ioannidis</em>. Identifying Users From Their Rating Patterns &#8211;  <strong>58</strong></li>
+<li><em>Pedro G. Campos, Fernando Díez and Alejandro Bellogin</em>. Temporal Rating Habits: A Valuable Tool for Rater Differentiation &#8211; <strong>60</strong></li>
+<li><em>Yue Shi, Martha Larson and Alan Hanjalic</em>. Mining Relational Context-aware Graph for Rater Identification &#8211;  <strong>107</strong></li>
+<li><em>Claudio Biancalana, Fabio Gasparetti, Alessandro Micarelli, Alfonso Miola and Giuseppe Sansonetti</em>. Context-aware Movie Recommendation based on Signal Processing and Machine Learning &#8211;  <strong>333</strong></li>
 </ul>
-</div>								</div><!-- / Post -->	
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>						<div class="post-footer">November 14th, 2011 |  Category: <a class="uncategorized" href="/category/uncategorized/" title="Uncategorized">Uncategorized</a> </div>		</div><!-- / Post -->	
 						
 	
-					
+			
+
+	
+		<p>Comments are closed.</p>
+	
+
+
+
+		
     
 
 </td>
@@ -394,11 +387,10 @@ function wo_map_console(url) {
 	</div>
 </div>
 
-<script type='text/javascript' src='/wp-includes/js/comment-reply.min.js?ver=4.3.2'></script>
 <!--stats_footer_test--><script src="http://stats.wordpress.com/e-201604.js" type="text/javascript"></script>
 <script type="text/javascript">
-st_go({blog:'22360118',v:'ext',post:'176'});
-var load_cmc = function(){linktracker_init(22360118,176,2);};
+st_go({blog:'22360118',v:'ext',post:'204'});
+var load_cmc = function(){linktracker_init(22360118,204,2);};
 if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 else load_cmc();
 </script>

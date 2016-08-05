@@ -1,14 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
-<head><base href="http://recsyschallenge.github.io/2011/">
+<head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Program &#171; Challenge on Context-aware Movie Recommendation</title>
+<title>FAQ &#171; Challenge on Context-aware Movie Recommendation</title>
 <link rel="shortcut icon" href="/wp-content/ata-images/14-favicon.ico" />
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="/xmlrpc.php" />
 <link rel="alternate" type="application/rss+xml" title="Challenge on Context-aware Movie Recommendation &raquo; Feed" href="/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Challenge on Context-aware Movie Recommendation &raquo; Comments Feed" href="/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Challenge on Context-aware Movie Recommendation &raquo; Program Comments Feed" href="/program/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/2011.camrachallenge.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.2"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -33,8 +32,8 @@ img.emoji {
 <script type='text/javascript' src='/wp-content/themes/atahualpa/js/DD_roundies.js?ver=0.0.2a'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
-<link rel='canonical' href='/program/' />
-<link rel='shortlink' href='http://wp.me/P1vOT4-2Q' />
+<link rel='canonical' href='/faq/' />
+<link rel='shortlink' href='http://wp.me/P1vOT4-1F' />
 <script type="text/javascript">
 window.google_analytics_uacct = "UA-5445164-7";
 </script>
@@ -207,7 +206,7 @@ jQuery(document).ready(function(){
 <script type="text/javascript">DD_roundies.addRule("a.posts-icon, a.comments-icon, a.email-icon, img.logo");</script>
 <![endif]-->
 </head>
-<body class="page page-id-176 page-template-default" >
+<body class="page page-id-103 page-template-default" >
 
 <div id="wrapper">
 <div id="container">
@@ -238,7 +237,7 @@ jQuery(document).ready(function(){
 	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="/dataset/">Dataset</a></li>
 </ul>
 </li>
-<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-176 current_page_item menu-item-184"><a href="/program/">Program</a></li>
+<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184"><a href="/program/">Program</a></li>
 <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-45"><a href="/call-for-papers/">Call For Papers</a>
 <ul class="sub-menu">
 	<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="/paper-submission/">Paper Submission</a></li>
@@ -246,7 +245,7 @@ jQuery(document).ready(function(){
 </ul>
 </li>
 <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="/committee/">Committee</a></li>
-<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111"><a href="/faq/">FAQ</a>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-103 current_page_item menu-item-has-children menu-item-111"><a href="/faq/">FAQ</a>
 <ul class="sub-menu">
 	<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="/evaluation/">Evaluation</a></li>
 </ul>
@@ -293,35 +292,40 @@ jQuery(document).ready(function(){
     
 		
 		
-								<div class="post post-176 page type-page status-publish hentry odd" id="post-176">
-						<div class="post-headline">		<h1>Program</h1>
-		</div>				<div class="post-bodycopy clearfix"><ul>
-<li><strong>8:30</strong>-8:45 &#8211; welcome</li>
-<li><strong>8:45-9:30</strong> Keynote Alexander Tuzhilin  &#8211; Context-Aware Recommender Systems: The Next Frontier</li>
-<li><strong>9:30-9:45</strong> Presentation of CAMRa</li>
-<li><strong>9:45-10:15</strong> &#8211; talk (20+10)<br />
-<em>Claudio Biancalana, Fabio Gasparetti, Alessandro Micarelli,  Alfonso Miola and Giuseppe Sansonetti</em>. Context-aware Movie  Recommendation based on Signal Processing and Machine Learning</li>
-<li><strong>10:15-10:45</strong> Coffee Break</li>
-<li><strong>10:45-11:15</strong> talk (20+10)<br />
-<em>Gwangseop Gim, Hogyeong Jeong, Hyunjong Lee and Dohyun  Yun</em>. Group-aware prediction with exponential smoothing for  collaborative filtering</li>
-<li><strong>11:15-11:30</strong> talk (10+5)<br />
-<em>Qiuxia Lu, Diyi Yang, Tianqi Chen, Weinan Zhang and Yong  Yu</em>. Informative Household Recommendation with Feature-based Matrix  Factorization</li>
-<li><strong>11:30-11:45</strong> talk (10+5)<br />
-<em>Xun Hu, Xiangwu Meng and Licai Wang</em>.  SVD-based group  recommendation approaches: An experimental study of Moviepilot</li>
-<li><strong>11:45:12:15</strong> talk (20+10)<br />
-<em>Pedro G. Campos, Fernando Díez and Alejandro Bellogin</em>. Temporal Rating Habits: A Valuable Tool for Rater Differentiation</li>
-<li><strong>12:15-12:30</strong> talk (10+5)<br />
-<em>Andres Moreno, Harold Castro and Michel Riveill</em>. Simple  time-aware and social-aware user similarity for a KNN-based recommender  system</li>
-<li><strong>12:30-14:00</strong> Lunch</li>
-<li><strong>14:00-14:30</strong> talk (20+10)<br />
-<em>Jose Bento, Nadia Fawaz, Andrea Montanari and Stratis Ioannidis</em>. Identifying Users From Their Rating Patterns</li>
-<li><strong>14:30 -15:00</strong> talk (20+10)<br />
-<em>Yancui Shi, Xiangwu Meng and Licai Wang</em>.  A heuristic  approach to identifying the specific household member for a given rating</li>
-<li><strong>15:00-15:30</strong> talk (20+10)<br />
-<em>Yue Shi, Martha Larson and Alan Hanjalic</em>. Mining Relational Context-aware Graph for Rater Identification</li>
-<li><strong>15:30-15:45</strong> Presentation wrap-up</li>
-<li><strong>15:45-16:15</strong> Coffee Break</li>
-<li><strong>16:15-18:00</strong> &#8211; breakout + ending discussion</li>
+								<div class="post post-103 page type-page status-publish hentry odd" id="post-103">
+						<div class="post-headline">		<h1>FAQ</h1>
+		</div>				<div class="post-bodycopy clearfix"><p>The most commonly asked question. If you have a question which is not answered here, please send it to us at camra2011 [at] camrachallenge.com</p>
+<ul>
+<li><a title="Datasets" href="/faq/#data">Datasets</a></li>
+<li><a title="Evaluation" href="/faq/#eval">Evaluation</a></li>
+<li><a title="Publications" href="/faq/#publ">Publications</a></li>
+</ul>
+<h2><a name="data">Datasets</a></h2>
+<p><strong>[Qd1]:</strong> Will the additional dataset used for deciding the winners of the challenge be of the same format as the currently released ones?</p>
+<p><strong>[Ad1]:</strong> Yes, the additional evaluation sets will be of the same format, except the true positive values will not be provided.</p>
+<p><strong>[Qd2]:</strong> When will the the additional dataset be published?</p>
+<p><strong>[Ad2]:</strong> It will not be published, the participants will be given a list of users/households to recommend/identify a set of movies to for each track. They will be asked to return a list of recommended movies/users which we will evaluate. This will be around the time of the camera-ready deadline.</p>
+<p><strong>[Qd4]: </strong>Is it allowed to use information, e.g. from Wikipedia, about the Oscar nominations in 2010?</p>
+<p><strong>[Ad4]:</strong> No, we know that this might sound harsh, but in order to know that we’re comparing apples to apples we are imposing this limit. The idea is not to scrape extra meta-data off of IMDb/Wikipedia.</p>
+<p><strong>[Qd5]:</strong> The password does not seem to work.</p>
+<p><strong>[Ad5]:</strong> It does, try again. If it fails, try to download the file again. The files have been tested on Win/Linux/OSX/Unix and do work.</p>
+<p><strong>[Qd6]:</strong> Are you going to release the datasets after the workshop?</p>
+<p><strong>[Ad6]:</strong> The datasets are released <strong>exclusively</strong> for the challenge. However, by submitting a paper to the workshop, you are granted usage of the data in further research.</p>
+<p><strong>[Qd7]:</strong> Is it compulsory to send a paper to the workshop in order to use the data?</p>
+<p><strong>[Ad7]:</strong> Yes, we expect the teams to contribute a paper to the workshop. If you do not contribute a paper to the workshop, you are give up the right to use the datasets in any future work. Please see the Dataset page. The paper can be from 4 to 8 pages. We will consider allowing a shorter format.</p>
+<p><strong>[Qd8]:</strong> There are ratings in the dataset with the rating value 0, are these actual ratings?</p>
+<p><strong>[Ad8]:</strong> Yes, the scale is from 0 to 100, 0 being the lowest rating value and 100 being the highest.</p>
+<h2><a name="eval">Evaluation</a></h2>
+<p><strong>[Qe1]: </strong>Will we send our final predictions to the organizers, which will then perform the evaluation?</p>
+<p><strong>[Ae1]: </strong>Yes</p>
+<p><strong>[Qe2]:</strong> Why not use XXX as the evaluation metric instead?</p>
+<p><strong>[Ae2]:</strong> There are as many evaluation metrics as there are ways to implement a recommender, we have settled for these metrics as they are commonly used and well known by the majority of RecSys people. You are welcome to use any other evaluation metric in you paper in addition to the ones specified.</p>
+<h2><a name="publ">Publications</a></h2>
+<p><strong>[Qp]:</strong> Do you know of any relevant publications?</p>
+<p><strong>[Ap]:</strong> Yes, please have a look at these papers</p>
+<ul>
+<li>Herlocker2004, <a title="Herlocker2004" href="http://doi.acm.org/10.1145/963770.963772" target="_blank"><strong>Evaluating collaborative filtering recommender systems</strong></a></li>
+<li>CAMRa 2010, <strong><a title="CAMRa2010" href="http://portal.acm.org/citation.cfm?id=1869652&amp;picked=prox&amp;cfid=28954483&amp;cftoken=98424883" target="_blank">CAMRa 2010 proceedings (ACM DL)</a></strong></li>
 </ul>
 </div>								</div><!-- / Post -->	
 						
@@ -394,11 +398,10 @@ function wo_map_console(url) {
 	</div>
 </div>
 
-<script type='text/javascript' src='/wp-includes/js/comment-reply.min.js?ver=4.3.2'></script>
 <!--stats_footer_test--><script src="http://stats.wordpress.com/e-201604.js" type="text/javascript"></script>
 <script type="text/javascript">
-st_go({blog:'22360118',v:'ext',post:'176'});
-var load_cmc = function(){linktracker_init(22360118,176,2);};
+st_go({blog:'22360118',v:'ext',post:'103'});
+var load_cmc = function(){linktracker_init(22360118,103,2);};
 if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 else load_cmc();
 </script>
